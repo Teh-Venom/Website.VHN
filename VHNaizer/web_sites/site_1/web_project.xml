@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<web_project>
+  <multilanguage>
+    <support_multilanguage val="false"/>
+    <languages>
+    </languages>
+  </multilanguage>
+  <general_settings>
+    <lang_dependant_data>
+    </lang_dependant_data>
+    <access_password val=""/>
+    <block_mouse_right_clic val="false"/>
+    <google_sitemap_enabled val="true"/>
+    <global_head_code val=""/>
+    <default_message_language val="pt"/>
+    <screenshot_enabled val="false"/>
+    <screenshot_auto val="true"/>
+    <sitemap_enabled val="true"/>
+    <search_indexation_settings>
+      <enable_image_indexation val="false"/>
+      <enable_image_filename_indexation val="false"/>
+      <index_meta_page_title val="true"/>
+      <index_meta_page_keywords val="true"/>
+      <index_meta_page_description val="true"/>
+    </search_indexation_settings>
+    <img_favicon>
+      <type val="1"/>
+      <sync_mod val="1i2p7s6f46phb9f"/>
+      <sync_pub val="favicon.ico"/>
+      <ref val=""/>
+      <transformation>
+        <size width="-1" height="-1"/>
+        <keep_ratio val="false"/>
+        <limit_max_is_real_size val="true"/>
+      </transformation>
+      <prefered_pub_format val=""/>
+    </img_favicon>
+    <save_custom_settings_on_backup val="false"/>
+    <html_page_encoding val="utf-8"/>
+    <force_ie7_rendering val="false"/>
+    <debug_disable_html val="false"/>
+    <use_native_utf8_encoding val="false"/>
+    <fancybox_settings>
+      <sizemax_images val="800"/>
+      <transitionIn val="elastic"/>
+      <transitionOut val="elastic"/>
+      <title_position val="inside"/>
+      <cyclic_mode val="false"/>
+    </fancybox_settings>
+    <prefixe_page_filename val="crbst_"/>
+    <force_url_lang_code_with_multilang val="false"/>
+    <multidomain_features val="false"/>
+    <google_analytics_code val=""/>
+    <google_api_key val=""/>
+  </general_settings>
+  <project_context>
+    <home_page>
+      <type val="2"/>
+      <sync_mod val="1i2p00n43cijd3"/>
+      <sync_pub val=""/>
+      <ref val="0.wpml"/>
+    </home_page>
+  </project_context>
+  <static_files>
+    <resources>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1f2a"/>
+        <sync_pub val="excanvas.js"/>
+        <ref val="excanvas.js"/>
+        <ref val="excanvas.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="86c"/>
+        <sync_pub val="jquery.js"/>
+        <ref val="jquery.js"/>
+        <ref val="jquery.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="use"/>
+        <sync_pub val="jquery.mousewheel.js"/>
+        <ref val="jquery.mousewheel.js"/>
+        <ref val="jquery.mousewheel.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1t6d"/>
+        <sync_pub val="wa-admin/js/wa-admin.js"/>
+        <ref val="wa-admin/js/wa-admin.js"/>
+        <ref val="wa-admin/js/wa-admin.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1nvt"/>
+        <sync_pub val="wa-admin/js/wa-blog.js"/>
+        <ref val="wa-admin/js/wa-blog.js"/>
+        <ref val="wa-admin/js/wa-blog.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="nur"/>
+        <sync_pub val="wa-admin/php/3rdparty/JSON.php"/>
+        <ref val="wa-admin/php/3rdparty/JSON.php"/>
+        <ref val="wa-admin/php/3rdparty/JSON.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="15qg"/>
+        <sync_pub val="wa-admin/php/sql/sql.constant.php"/>
+        <ref val="wa-admin/php/sql/sql.constant.php"/>
+        <ref val="wa-admin/php/sql/sql.constant.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1e4k"/>
+        <sync_pub val="wa-admin/php/sql/sql.database.mysql.php"/>
+        <ref val="wa-admin/php/sql/sql.database.mysql.php"/>
+        <ref val="wa-admin/php/sql/sql.database.mysql.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="16va"/>
+        <sync_pub val="wa-admin/php/sql/sql.database.php"/>
+        <ref val="wa-admin/php/sql/sql.database.php"/>
+        <ref val="wa-admin/php/sql/sql.database.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="19de"/>
+        <sync_pub val="wa-admin/php/sql/sql.database.sqlite.php"/>
+        <ref val="wa-admin/php/sql/sql.database.sqlite.php"/>
+        <ref val="wa-admin/php/sql/sql.database.sqlite.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="cl"/>
+        <sync_pub val="wa-admin/php/sql/sql.result.mysql.php"/>
+        <ref val="wa-admin/php/sql/sql.result.mysql.php"/>
+        <ref val="wa-admin/php/sql/sql.result.mysql.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="13lj"/>
+        <sync_pub val="wa-admin/php/sql/sql.result.php"/>
+        <ref val="wa-admin/php/sql/sql.result.php"/>
+        <ref val="wa-admin/php/sql/sql.result.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1na5"/>
+        <sync_pub val="wa-admin/php/sql/sql.result.sqlite.php"/>
+        <ref val="wa-admin/php/sql/sql.result.sqlite.php"/>
+        <ref val="wa-admin/php/sql/sql.result.sqlite.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1rvh"/>
+        <sync_pub val="wa-admin/php/wa-blog.php"/>
+        <ref val="wa-admin/php/wa-blog.php"/>
+        <ref val="wa-admin/php/wa-blog.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1ik4"/>
+        <sync_pub val="wa-admin/php/wa-class.php"/>
+        <ref val="wa-admin/php/wa-class.php"/>
+        <ref val="wa-admin/php/wa-class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="u36"/>
+        <sync_pub val="wa-admin/php/wa-main.php"/>
+        <ref val="wa-admin/php/wa-main.php"/>
+        <ref val="wa-admin/php/wa-main.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1dd9"/>
+        <sync_pub val="wa-admin/php/wa-settings.php"/>
+        <ref val="wa-admin/php/wa-settings.php"/>
+        <ref val="wa-admin/php/wa-settings.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="19rg"/>
+        <sync_pub val="wa-admin/php/wa-tools.php"/>
+        <ref val="wa-admin/php/wa-tools.php"/>
+        <ref val="wa-admin/php/wa-tools.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="uvh"/>
+        <sync_pub val="wa-admin/ui/images/background-menu.png"/>
+        <ref val="wa-admin/ui/images/background-menu.png"/>
+        <ref val="wa-admin/ui/images/background-menu.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1jti"/>
+        <sync_pub val="wa-admin/ui/images/background-top.png"/>
+        <ref val="wa-admin/ui/images/background-top.png"/>
+        <ref val="wa-admin/ui/images/background-top.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1su7"/>
+        <sync_pub val="wa-admin/ui/images/blog.png"/>
+        <ref val="wa-admin/ui/images/blog.png"/>
+        <ref val="wa-admin/ui/images/blog.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1e2"/>
+        <sync_pub val="wa-admin/ui/images/delete-hover.png"/>
+        <ref val="wa-admin/ui/images/delete-hover.png"/>
+        <ref val="wa-admin/ui/images/delete-hover.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="hd6"/>
+        <sync_pub val="wa-admin/ui/images/delete.png"/>
+        <ref val="wa-admin/ui/images/delete.png"/>
+        <ref val="wa-admin/ui/images/delete.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1ppe"/>
+        <sync_pub val="wa-admin/ui/images/separator.png"/>
+        <ref val="wa-admin/ui/images/separator.png"/>
+        <ref val="wa-admin/ui/images/separator.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="167o"/>
+        <sync_pub val="wa-admin/ui/images/title.png"/>
+        <ref val="wa-admin/ui/images/title.png"/>
+        <ref val="wa-admin/ui/images/title.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1jq1"/>
+        <sync_pub val="wa-admin/ui/wa-blog.html"/>
+        <ref val="wa-admin/ui/wa-blog.html"/>
+        <ref val="wa-admin/ui/wa-blog.html"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="58s"/>
+        <sync_pub val="wa-admin/ui/wa-main.css"/>
+        <ref val="wa-admin/ui/wa-main.css"/>
+        <ref val="wa-admin/ui/wa-main.css"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="134q"/>
+        <sync_pub val="wa-admin/ui/wa-main.html"/>
+        <ref val="wa-admin/ui/wa-main.html"/>
+        <ref val="wa-admin/ui/wa-main.html"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="o92"/>
+        <sync_pub val="wa-admin/wa_admin.php"/>
+        <ref val="wa-admin/wa_admin.php"/>
+        <ref val="wa-admin/wa_admin.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="kvh"/>
+        <sync_pub val="wa-admin/wa_dyn_blog.php"/>
+        <ref val="wa-admin/wa_dyn_blog.php"/>
+        <ref val="wa-admin/wa_dyn_blog.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="jj7"/>
+        <sync_pub val="wa_admin.php"/>
+        <ref val="wa_admin.php"/>
+        <ref val="wa_admin.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="pem"/>
+        <sync_pub val="wa_blog/webacappella_blog.js"/>
+        <ref val="wa_blog/webacappella_blog.js"/>
+        <ref val="wa_blog/webacappella_blog.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1521"/>
+        <sync_pub val="wa_closecross.png"/>
+        <ref val="wa_closecross.png"/>
+        <ref val="wa_closecross.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="n79"/>
+        <sync_pub val="wa_dyn_blog.php"/>
+        <ref val="wa_dyn_blog.php"/>
+        <ref val="wa_dyn_blog.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1j9k"/>
+        <sync_pub val="wa_expressInstall.swf"/>
+        <ref val="wa_expressInstall.swf"/>
+        <ref val="wa_expressInstall.swf"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="mm6"/>
+        <sync_pub val="wa_fancybox/blank.gif"/>
+        <ref val="wa_fancybox/blank.gif"/>
+        <ref val="wa_fancybox/blank.gif"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="18m3"/>
+        <sync_pub val="wa_fancybox/fancy_close.png"/>
+        <ref val="wa_fancybox/fancy_close.png"/>
+        <ref val="wa_fancybox/fancy_close.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1kj2"/>
+        <sync_pub val="wa_fancybox/fancy_loading.png"/>
+        <ref val="wa_fancybox/fancy_loading.png"/>
+        <ref val="wa_fancybox/fancy_loading.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="12pu"/>
+        <sync_pub val="wa_fancybox/fancy_nav_left.png"/>
+        <ref val="wa_fancybox/fancy_nav_left.png"/>
+        <ref val="wa_fancybox/fancy_nav_left.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="h30"/>
+        <sync_pub val="wa_fancybox/fancy_nav_right.png"/>
+        <ref val="wa_fancybox/fancy_nav_right.png"/>
+        <ref val="wa_fancybox/fancy_nav_right.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1ld6"/>
+        <sync_pub val="wa_fancybox/fancy_shadow_e.png"/>
+        <ref val="wa_fancybox/fancy_shadow_e.png"/>
+        <ref val="wa_fancybox/fancy_shadow_e.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1j9e"/>
+        <sync_pub val="wa_fancybox/fancy_shadow_n.png"/>
+        <ref val="wa_fancybox/fancy_shadow_n.png"/>
+        <ref val="wa_fancybox/fancy_shadow_n.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1kkp"/>
+        <sync_pub val="wa_fancybox/fancy_shadow_ne.png"/>
+        <ref val="wa_fancybox/fancy_shadow_ne.png"/>
+        <ref val="wa_fancybox/fancy_shadow_ne.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1cg1"/>
+        <sync_pub val="wa_fancybox/fancy_shadow_nw.png"/>
+        <ref val="wa_fancybox/fancy_shadow_nw.png"/>
+        <ref val="wa_fancybox/fancy_shadow_nw.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="pd1"/>
+        <sync_pub val="wa_fancybox/fancy_shadow_s.png"/>
+        <ref val="wa_fancybox/fancy_shadow_s.png"/>
+        <ref val="wa_fancybox/fancy_shadow_s.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1o7k"/>
+        <sync_pub val="wa_fancybox/fancy_shadow_se.png"/>
+        <ref val="wa_fancybox/fancy_shadow_se.png"/>
+        <ref val="wa_fancybox/fancy_shadow_se.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="gcu"/>
+        <sync_pub val="wa_fancybox/fancy_shadow_sw.png"/>
+        <ref val="wa_fancybox/fancy_shadow_sw.png"/>
+        <ref val="wa_fancybox/fancy_shadow_sw.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="7d1"/>
+        <sync_pub val="wa_fancybox/fancy_shadow_w.png"/>
+        <ref val="wa_fancybox/fancy_shadow_w.png"/>
+        <ref val="wa_fancybox/fancy_shadow_w.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="lc5"/>
+        <sync_pub val="wa_fancybox/fancy_title_left.png"/>
+        <ref val="wa_fancybox/fancy_title_left.png"/>
+        <ref val="wa_fancybox/fancy_title_left.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1h63"/>
+        <sync_pub val="wa_fancybox/fancy_title_main.png"/>
+        <ref val="wa_fancybox/fancy_title_main.png"/>
+        <ref val="wa_fancybox/fancy_title_main.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="ne7"/>
+        <sync_pub val="wa_fancybox/fancy_title_over.png"/>
+        <ref val="wa_fancybox/fancy_title_over.png"/>
+        <ref val="wa_fancybox/fancy_title_over.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="k7o"/>
+        <sync_pub val="wa_fancybox/fancy_title_right.png"/>
+        <ref val="wa_fancybox/fancy_title_right.png"/>
+        <ref val="wa_fancybox/fancy_title_right.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1t3n"/>
+        <sync_pub val="wa_fancybox/fancybox-x.png"/>
+        <ref val="wa_fancybox/fancybox-x.png"/>
+        <ref val="wa_fancybox/fancybox-x.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="sfm"/>
+        <sync_pub val="wa_fancybox/fancybox-y.png"/>
+        <ref val="wa_fancybox/fancybox-y.png"/>
+        <ref val="wa_fancybox/fancybox-y.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="rvt"/>
+        <sync_pub val="wa_fancybox/fancybox.png"/>
+        <ref val="wa_fancybox/fancybox.png"/>
+        <ref val="wa_fancybox/fancybox.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1gkg"/>
+        <sync_pub val="wa_fancybox/jquery.easing-1.3.pack.js"/>
+        <ref val="wa_fancybox/jquery.easing-1.3.pack.js"/>
+        <ref val="wa_fancybox/jquery.easing-1.3.pack.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="sbe"/>
+        <sync_pub val="wa_fancybox/jquery.fancybox-1.3.4.css"/>
+        <ref val="wa_fancybox/jquery.fancybox-1.3.4.css"/>
+        <ref val="wa_fancybox/jquery.fancybox-1.3.4.css"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="tl"/>
+        <sync_pub val="wa_fancybox/jquery.fancybox-1.3.4.js"/>
+        <ref val="wa_fancybox/jquery.fancybox-1.3.4.js"/>
+        <ref val="wa_fancybox/jquery.fancybox-1.3.4.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="s46"/>
+        <sync_pub val="wa_free/wa_banner_numento.png"/>
+        <ref val="wa_free/wa_banner_numento.png"/>
+        <ref val="wa_free/wa_banner_numento.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="17iq"/>
+        <sync_pub val="wa_free/wa_banner_wa.png"/>
+        <ref val="wa_free/wa_banner_wa.png"/>
+        <ref val="wa_free/wa_banner_wa.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1nnt"/>
+        <sync_pub val="wa_gallery/wa_bt_list.png"/>
+        <ref val="wa_gallery/wa_bt_list.png"/>
+        <ref val="wa_gallery/wa_bt_list.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="t1b"/>
+        <sync_pub val="wa_gallery/wa_bt_start_diapo.png"/>
+        <ref val="wa_gallery/wa_bt_start_diapo.png"/>
+        <ref val="wa_gallery/wa_bt_start_diapo.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1f37"/>
+        <sync_pub val="wa_gallery/wa_navigation_past_off.png"/>
+        <ref val="wa_gallery/wa_navigation_past_off.png"/>
+        <ref val="wa_gallery/wa_navigation_past_off.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="gdg"/>
+        <sync_pub val="wa_gallery/wa_navigation_past_on.png"/>
+        <ref val="wa_gallery/wa_navigation_past_on.png"/>
+        <ref val="wa_gallery/wa_navigation_past_on.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1lqb"/>
+        <sync_pub val="wa_gallery/webacappella_gallery.js"/>
+        <ref val="wa_gallery/webacappella_gallery.js"/>
+        <ref val="wa_gallery/webacappella_gallery.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1kj2"/>
+        <sync_pub val="wa_loading.png"/>
+        <ref val="wa_loading.png"/>
+        <ref val="wa_loading.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1a3e"/>
+        <sync_pub val="wa_market/3rd_libraries/inc.pagseguro.php"/>
+        <ref val="wa_market/3rd_libraries/inc.pagseguro.php"/>
+        <ref val="wa_market/3rd_libraries/inc.pagseguro.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1qbk"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/config/PagSeguroConfig.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/config/PagSeguroConfig.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/config/PagSeguroConfig.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="11br"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/config/PagSeguroConfig.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/config/PagSeguroConfig.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/config/PagSeguroConfig.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1ijf"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroAccountCredentials.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroAccountCredentials.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroAccountCredentials.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="10v5"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroAddress.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroAddress.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroAddress.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="7ck"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroCredentials.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroCredentials.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroCredentials.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1npj"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroError.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroError.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroError.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="8sg"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroHttpStatus.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroHttpStatus.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroHttpStatus.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="do8"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroItem.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroItem.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroItem.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1u2"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroNotificationType.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroNotificationType.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroNotificationType.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1o5s"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPaymentMethod.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPaymentMethod.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPaymentMethod.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1gnt"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPaymentMethodCode.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPaymentMethodCode.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPaymentMethodCode.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1v95"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPaymentMethodType.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPaymentMethodType.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPaymentMethodType.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="10jt"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPaymentRequest.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPaymentRequest.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPaymentRequest.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="nd6"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPhone.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPhone.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroPhone.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="8rf"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroSender.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroSender.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroSender.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="s7l"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroShipping.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroShipping.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroShipping.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="gs0"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroShippingType.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroShippingType.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroShippingType.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1m7c"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransaction.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransaction.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransaction.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="98e"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransactionSearchResult.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransactionSearchResult.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransactionSearchResult.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="11fg"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransactionStatus.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransactionStatus.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransactionStatus.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1ov8"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransactionSummary.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransactionSummary.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransactionSummary.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="9gl"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransactionType.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransactionType.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/domain/PagSeguroTransactionType.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="18dg"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/exception/PagSeguroServiceException.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/exception/PagSeguroServiceException.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/exception/PagSeguroServiceException.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1dd4"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/helper/PagSeguroHelper.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/helper/PagSeguroHelper.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/helper/PagSeguroHelper.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="a4u"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/loader/PagSeguroAutoLoader.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/loader/PagSeguroAutoLoader.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/loader/PagSeguroAutoLoader.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1m77"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/log/LogPagSeguro.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/log/LogPagSeguro.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/log/LogPagSeguro.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1blt"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/PagSeguroLibrary.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/PagSeguroLibrary.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/PagSeguroLibrary.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="joi"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/parser/PagSeguroPaymentParser.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/parser/PagSeguroPaymentParser.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/parser/PagSeguroPaymentParser.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="s9t"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/parser/PagSeguroPaymentParserData.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/parser/PagSeguroPaymentParserData.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/parser/PagSeguroPaymentParserData.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="46p"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/parser/PagSeguroServiceParser.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/parser/PagSeguroServiceParser.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/parser/PagSeguroServiceParser.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="5br"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/parser/PagSeguroTransactionParser.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/parser/PagSeguroTransactionParser.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/parser/PagSeguroTransactionParser.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="m5b"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/resources/PagSeguroResources.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/resources/PagSeguroResources.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/resources/PagSeguroResources.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="15c4"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/resources/PagSeguroResources.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/resources/PagSeguroResources.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/resources/PagSeguroResources.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1sic"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/service/PagSeguroConnectionData.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/service/PagSeguroConnectionData.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/service/PagSeguroConnectionData.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1hg0"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/service/PagSeguroNotificationService.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/service/PagSeguroNotificationService.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/service/PagSeguroNotificationService.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1a06"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/service/PagSeguroPaymentService.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/service/PagSeguroPaymentService.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/service/PagSeguroPaymentService.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="r8j"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/service/PagSeguroTransactionSearchService.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/service/PagSeguroTransactionSearchService.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/service/PagSeguroTransactionSearchService.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1v3d"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/utils/PagSeguroHttpConnection.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/utils/PagSeguroHttpConnection.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/utils/PagSeguroHttpConnection.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1t28"/>
+        <sync_pub val="wa_market/3rd_libraries/PagSeguroLibrary/utils/PagSeguroXmlParser.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/utils/PagSeguroXmlParser.class.php"/>
+        <ref val="wa_market/3rd_libraries/PagSeguroLibrary/utils/PagSeguroXmlParser.class.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1p7b"/>
+        <sync_pub val="wa_market/stock_state0.png"/>
+        <ref val="wa_market/stock_state0.png"/>
+        <ref val="wa_market/stock_state0.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="16js"/>
+        <sync_pub val="wa_market/stock_state1.png"/>
+        <ref val="wa_market/stock_state1.png"/>
+        <ref val="wa_market/stock_state1.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="lfq"/>
+        <sync_pub val="wa_market/stock_state2.png"/>
+        <ref val="wa_market/stock_state2.png"/>
+        <ref val="wa_market/stock_state2.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1ksa"/>
+        <sync_pub val="wa_market/wa_cart_button.png"/>
+        <ref val="wa_market/wa_cart_button.png"/>
+        <ref val="wa_market/wa_cart_button.png"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1b57"/>
+        <sync_pub val="wa_market/webacappella_dlg_market.js"/>
+        <ref val="wa_market/webacappella_dlg_market.js"/>
+        <ref val="wa_market/webacappella_dlg_market.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1tfu"/>
+        <sync_pub val="wa_market/webacappella_market.js"/>
+        <ref val="wa_market/webacappella_market.js"/>
+        <ref val="wa_market/webacappella_market.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="7oa"/>
+        <sync_pub val="wa_multimedia/wa_multimedia.swf"/>
+        <ref val="wa_multimedia/wa_multimedia.swf"/>
+        <ref val="wa_multimedia/wa_multimedia.swf"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="eev"/>
+        <sync_pub val="wa_multimedia/wa_player_flv_maxi.swf"/>
+        <ref val="wa_multimedia/wa_player_flv_maxi.swf"/>
+        <ref val="wa_multimedia/wa_player_flv_maxi.swf"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="gfk"/>
+        <sync_pub val="wa_swfobject.js"/>
+        <ref val="wa_swfobject.js"/>
+        <ref val="wa_swfobject.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="k49"/>
+        <sync_pub val="wa_transparent.gif"/>
+        <ref val="wa_transparent.gif"/>
+        <ref val="wa_transparent.gif"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="k7s"/>
+        <sync_pub val="waErrorFunction.php"/>
+        <ref val="waErrorFunction.php"/>
+        <ref val="waErrorFunction.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="735"/>
+        <sync_pub val="waStaticFunction.php"/>
+        <ref val="waStaticFunction.php"/>
+        <ref val="waStaticFunction.php"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="10nl"/>
+        <sync_pub val="webacappella.css"/>
+        <ref val="webacappella.css"/>
+        <ref val="webacappella.css"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1ups"/>
+        <sync_pub val="webacappella_core.js"/>
+        <ref val="webacappella_core.js"/>
+        <ref val="webacappella_core.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="128k"/>
+        <sync_pub val="webacappella_dialog.js"/>
+        <ref val="webacappella_dialog.js"/>
+        <ref val="webacappella_dialog.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1mb9"/>
+        <sync_pub val="webacappella_form.js"/>
+        <ref val="webacappella_form.js"/>
+        <ref val="webacappella_form.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="tkh"/>
+        <sync_pub val="webacappella_form5.js"/>
+        <ref val="webacappella_form5.js"/>
+        <ref val="webacappella_form5.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1tjn"/>
+        <sync_pub val="webacappella_ie.css"/>
+        <ref val="webacappella_ie.css"/>
+        <ref val="webacappella_ie.css"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="hgi"/>
+        <sync_pub val="webacappella_internal.js"/>
+        <ref val="webacappella_internal.js"/>
+        <ref val="webacappella_internal.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="1lh9"/>
+        <sync_pub val="webacappella_menu.js"/>
+        <ref val="webacappella_menu.js"/>
+        <ref val="webacappella_menu.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="tc5"/>
+        <sync_pub val="webacappella_patch_ie8.js"/>
+        <ref val="webacappella_patch_ie8.js"/>
+        <ref val="webacappella_patch_ie8.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="n6g"/>
+        <sync_pub val="webacappella_search.js"/>
+        <ref val="webacappella_search.js"/>
+        <ref val="webacappella_search.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+      <OBJECT>
+        <type val="3"/>
+        <sync_mod val="blf"/>
+        <sync_pub val="webacappella_tools.js"/>
+        <ref val="webacappella_tools.js"/>
+        <ref val="webacappella_tools.js"/>
+        <multilang val="false"/>
+      </OBJECT>
+    </resources>
+  </static_files>
+  <search_index>
+    <version val="8"/>
+    <content_valid val="true"/>
+    <synchro>
+      <synchro_modification val="1xgxgs2b7j8bya"/>
+    </synchro>
+    <index_crc val="dd0"/>
+  </search_index>
+  <sitemap_index>
+    <version val="0"/>
+    <content_valid val="true"/>
+    <synchro>
+      <synchro_modification val="1xgyosn42t8tof"/>
+    </synchro>
+    <pages val="0.wpml;1.wpml;2.wpml;3.wpml;4.wpml;5.wpml;6.wpml"/>
+    <base val="/"/>
+  </sitemap_index>
+  <_.config.php>
+    <version val="1"/>
+    <content_valid val="true"/>
+    <synchro>
+      <synchro_modification val="57li8c6f46phb9e"/>
+    </synchro>
+  </_.config.php>
+  <_.htWaGlobalFunction.php>
+    <version val="13"/>
+    <content_valid val="true"/>
+    <synchro>
+      <synchro_modification val="1xgzrg6f46phb9e"/>
+    </synchro>
+    <special_identifier val="29amjs1xxrhz0k"/>
+  </_.htWaGlobalFunction.php>
+  <_.htaccess>
+    <version val="1"/>
+    <content_valid val="false"/>
+    <synchro>
+      <synchro_modification val="29am6k1xxrhz0k"/>
+    </synchro>
+    <content val=""/>
+  </_.htaccess>
+  <_.htpassword>
+    <version val="1"/>
+    <content_valid val="false"/>
+    <synchro>
+      <synchro_modification val="29am3w1xxrhz0k"/>
+    </synchro>
+    <content val=""/>
+  </_.htpassword>
+  <robots.txt>
+    <version val="1"/>
+    <content_valid val="false"/>
+    <synchro>
+      <synchro_modification val="29am981xxrhz0k"/>
+    </synchro>
+    <content val=""/>
+    <is_enabled val="false"/>
+    <auto_manage val="true"/>
+  </robots.txt>
+  <wa-ps-style-customization.js>
+    <version val="2"/>
+    <content_valid val="true"/>
+    <synchro>
+      <synchro_modification val="57liq46f46phb9e"/>
+    </synchro>
+  </wa-ps-style-customization.js>
+  <waCommonFunction.php>
+    <version val="1"/>
+    <content_valid val="true"/>
+    <synchro>
+      <synchro_modification val="57lig46f46phb9e"/>
+    </synchro>
+  </waCommonFunction.php>
+  <wa_common_messages.js>
+    <version val="53"/>
+    <content_valid val="true"/>
+    <synchro>
+      <synchro_modification val="57lics6f46phb9f"/>
+    </synchro>
+  </wa_common_messages.js>
+  <wa_global_market_stock.js>
+    <version val="2"/>
+    <content_valid val="true"/>
+    <synchro>
+      <synchro_modification val="57lidw6f46phb9f"/>
+    </synchro>
+  </wa_global_market_stock.js>
+  <wa_global_style.css>
+    <version val="3"/>
+    <content_valid val="true"/>
+    <synchro>
+      <synchro_modification val="57lip06f46phb9f"/>
+    </synchro>
+  </wa_global_style.css>
+  <wa_market_print_form.php>
+    <version val="14"/>
+    <content_valid val="true"/>
+    <synchro>
+      <synchro_modification val="57linw6f46phb9f"/>
+    </synchro>
+  </wa_market_print_form.php>
+  <site_global_settings_container>
+    <version val="25"/>
+    <content_valid val="true"/>
+    <synchro>
+      <synchro_modification val="4mqtuk6f46phb9f"/>
+    </synchro>
+    <palette>
+      <name val=""/>
+      <main_color val="ffffff"/>
+      <palette>
+        <name val=""/>
+        <colors val="71a434,9de34c,feaf3f,268ab1,e3f3fe,"/>
+      </palette>
+      <rule_harmony val="0"/>
+    </palette>
+    <global_ui_settings>
+      <color_bg>
+        <col val="ffffff"/>
+      </color_bg>
+      <color_1>
+        <col val="e8e8e8"/>
+      </color_1>
+      <color_2>
+        <col val="b1b2b4"/>
+      </color_2>
+      <color_3>
+        <col val="000000"/>
+      </color_3>
+      <color_text>
+        <col val="000000"/>
+      </color_text>
+      <color_text2>
+        <col val="db007d"/>
+      </color_text2>
+      <color_button_text>
+        <col val="ffffff"/>
+      </color_button_text>
+      <color_button_background_1>
+        <col val="6d6e70"/>
+      </color_button_background_1>
+      <color_button_border>
+        <col val="5c5c5e"/>
+      </color_button_border>
+      <color_button_text_over>
+        <col val="ffffff"/>
+      </color_button_text_over>
+      <color_button_background_1_over>
+        <col val="b1b3b4"/>
+      </color_button_background_1_over>
+      <color_button_border_over>
+        <col val="5c5c5e"/>
+      </color_button_border_over>
+      <color_overlay_popup>
+        <col val="00000080"/>
+      </color_overlay_popup>
+    </global_ui_settings>
+    <blog_settings>
+      <has_mail val="true"/>
+    </blog_settings>
+  </site_global_settings_container>
+  <synchro_screenshot_ascreen>
+    <synchro_modification val="1i2p306f46phb9e"/>
+  </synchro_screenshot_ascreen>
+  <id_modification val="1i2oyo6f46phb9d"/>
+  <version_global_webpage val="4.28"/>
+  <version_application_used val="4.6.26"/>
+  <version_web_engine val="40002"/>
+  <license_key_for_update val="p:b"/>
+  <prestashop_current_install val=""/>
+  <prestashop_security_tokens val=""/>
+  <cart_style_properties>
+    <OBJECT>
+      <name val="buyButton"/>
+      <properties>
+        <OBJECT>
+          <type val="5"/>
+          <name val="backgroundColor"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="5"/>
+          <name val="fontColor"/>
+          <value val="#000000"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="10"/>
+          <name val="image"/>
+        </OBJECT>
+      </properties>
+    </OBJECT>
+    <OBJECT>
+      <name val="general"/>
+      <properties>
+        <OBJECT>
+          <type val="5"/>
+          <name val="backgroundColor"/>
+          <value val="#eeeeee"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="10"/>
+          <name val="cartImage"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="5"/>
+          <name val="fontColor"/>
+          <value val="#000000"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="5"/>
+          <name val="separatorColor"/>
+          <value val="#999999"/>
+        </OBJECT>
+      </properties>
+    </OBJECT>
+  </cart_style_properties>
+  <account_style_properties>
+    <OBJECT>
+      <name val="general"/>
+      <properties>
+        <OBJECT>
+          <type val="5"/>
+          <name val="fontColor"/>
+          <value val="#000000"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="10"/>
+          <name val="loginImage"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="10"/>
+          <name val="logoutImage"/>
+        </OBJECT>
+      </properties>
+    </OBJECT>
+  </account_style_properties>
+  <currency_style_properties>
+    <OBJECT>
+      <name val="general"/>
+      <properties>
+        <OBJECT>
+          <type val="10"/>
+          <name val="arrowImage"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="5"/>
+          <name val="backgroundColor"/>
+          <value val="#000000"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="5"/>
+          <name val="fontColor"/>
+          <value val="#cccccc"/>
+        </OBJECT>
+      </properties>
+    </OBJECT>
+  </currency_style_properties>
+  <product_style_properties>
+    <OBJECT>
+      <name val="buyButton"/>
+      <properties>
+        <OBJECT>
+          <type val="5"/>
+          <name val="color"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="5"/>
+          <name val="fontColor"/>
+          <value val="#000000"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="10"/>
+          <name val="image"/>
+        </OBJECT>
+      </properties>
+    </OBJECT>
+    <OBJECT>
+      <name val="general"/>
+      <properties>
+        <OBJECT>
+          <type val="5"/>
+          <name val="backgroundColor"/>
+          <value val="#ffffff"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="5"/>
+          <name val="borderColor"/>
+          <value val="#cccccc"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="5"/>
+          <name val="descriptionFontColor"/>
+          <value val="#666666"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="5"/>
+          <name val="priceFontColor"/>
+          <value val="#990000"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="5"/>
+          <name val="titleFontColor"/>
+          <value val="#000000"/>
+        </OBJECT>
+      </properties>
+    </OBJECT>
+    <OBJECT>
+      <name val="seeLink"/>
+      <properties>
+        <OBJECT>
+          <type val="10"/>
+          <name val="arrowImage"/>
+        </OBJECT>
+        <OBJECT>
+          <type val="5"/>
+          <name val="fontColor"/>
+          <value val="#0088cc"/>
+        </OBJECT>
+      </properties>
+    </OBJECT>
+  </product_style_properties>
+</web_project>

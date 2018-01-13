@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Fone / Wtsapp (41) 9944-1899 | Família VH Naizer</name>
+    <description>Cães Pastor Alemão da Família VH Naizer espalhados pelo Brasil.</description>
+    <Style id="icon-503-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-DB4436-labelson-nodesc">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Folder>
+      <name>Camada sem título</name>
+      <Placemark>
+        <name>Finger VH Naizer</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Mãe: Rubia de Flammarion</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.4527888,-25.3680315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunter von Haus Naizer
+</name>
+        <description><![CDATA[Mãe:    Athena von Haus Zipf<br>Pai:    Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -50.1583223,-25.0994246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hércules von Haus Naizer</name>
+        <description><![CDATA[Mãe:    Athena von Haus Zipf<br>Pai:    Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -50.1631021,-25.0953154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elle von Haus Naizer</name>
+        <description>Mãe: Ruca de los Veltri | Pai: Zokko do Rancho dos Ipês</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -50.1482534,-25.0980358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Foxy Lady von Haus Naizer
+</name>
+        <description>Pai: Fedor von der Martinskapelle | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -50.1537037,-25.0888637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hércules von Haus Naizer
+</name>
+        <description>Pai: Balack von Haus Zipf | Mãe: Athena von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.527294,-25.4596714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gamble von Haus Naizer
+</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -48.3625325,-25.5780913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marko VH Zipf [NAIZER]
+</name>
+        <description>Pai: Fedor von der Martinskapelle | Mãe: Cantha von Haus Ulli</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.0717331,-26.9165792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mutz VH Zipf [NAIZER]
+</name>
+        <description>Pai: Fedor von der Martinskapelle | Mãe: Cantha von Haus Ulli</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3042082,-25.3193102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moritz VH Zipf [NAIZER]
+</name>
+        <description>Pai: Fedor von der Martinskapelle | Mãe: Cantha von Haus Ulli</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -50.3954885,-26.1770819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marko VH Zipf [Naizer]</name>
+        <description>Pai: Fedor von der Martinskapelle | Mãe: Cantha von Haus Ulli</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.8103238,-21.1704008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meg von Haus Zipf [NAIZER]
+</name>
+        <description>Pai: Fedor von der Martinskapelle | Mãe: Cantha von Haus Ulli</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.0429687,-26.8963534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maia VH Zipf [NAIZER]
+</name>
+        <description>Pai: Fedor von der Martinskapelle | Mãe: Cantha von Haus Ulli</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -51.2176584,-30.0346471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>M Gaia VH Zipf [NAIZER]
+</name>
+        <description>Pai: Fedor von der Martinskapelle | Mãe: Cantha von Haus Ulli</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -48.6370861,-27.6140791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Enoch von Haus Naizer
+</name>
+        <description>Pai: Zokko do Rancho dos Ipês | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -43.1728965,-22.9068467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Irano von Haus Naizer
+</name>
+        <description>Pai: Ballack von Haus Naizer | Mãe: Athena von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2342979,-25.370598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebe von Haus Naizer
+</name>
+        <description>Pai: Ballack von Haus Naizer | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2334685,-25.3886823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gaia von Haus Naizer
+</name>
+        <description>Pai: Ballack von Haus Naizer | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2960649,-25.5042671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hanna von Haus Naizer
+</name>
+        <description><![CDATA[Mãe:    Athena von Haus Zipf<br>Pai:    Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2266344,-25.2929784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giovanna von Haus Naizer
+</name>
+        <description><![CDATA[Mãe:   Ruca de los Veltri<br>Pai:    Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2132111,-25.4601547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fedora von Haus Naizer</name>
+        <description>Pai: Fedor von der Martinskapelle | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -46.5648481,-23.6898429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hammer do Walegui [NAIZER]
+</name>
+        <description>Pai: Fedor von der Martinskapelle | Mãe: Mel do Morada de Pedras</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -46.5559387,-23.7193541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iron von Haus Naizer
+</name>
+        <description><![CDATA[Mãe:    Athena von Haus Zipf<br>Pai:    Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -54.0932225,-25.2952784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebe do Walegui [NAIZER]
+</name>
+        <description>Pai: Fedor von der Martisnkapelle | Mãe: Mel do Morada de Pedras</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -55.5095451,-11.8608456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hércules do Walegui [NAIZER]</name>
+        <description>Pai: Fedor von der Martisnkapelle | Mãe: Mel do Morada de Pedras</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -48.5362308,-25.8116622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eros von Haus Naizer</name>
+        <description><![CDATA[Mãe:    Ruca de Los Veltri<br>Pai:    Zokko do Rancho dos Ipês]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -57.6515503,-19.0081688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Fêmea "D" von Haus Naizer]]></name>
+        <description><![CDATA[Mãe:    Y-Amser do Walegui<br>Pai:    Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -54.6201211,-20.4697105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isis von Haus Naizer
+</name>
+        <description><![CDATA[Mãe:    Athena von Haus Zipf<br>Pai:    Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5562213,-24.7097632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Danna von Haus Naizer</name>
+        <description>Mãe: Y-Amser do WaleguiPai: Ballack von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2035722,-25.5318354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bonno von Haus Naizer
+</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Mãe: Athena von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.4052251,-25.586431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ballack von Haus Naizer</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Mãe: Athena von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2829618,-25.3926584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brutus von Haus Naizer
+</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Mãe: Athena von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -43.2092285,-22.9331007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aquilles von Haus Naizer
+</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Mãe: Ursa do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1786486,-21.7848272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Katrina von Haus Naizer
+</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2757774,-25.4234212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kalinda von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2367179,-25.3971998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaisa von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2463446,-25.3863717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaio von Haus Naizer
+</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.7798281,-26.086847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>K.Stark von Haus Naizer</name>
+        <description>Pai: Ballack | Mãe: Ruca</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3356495,-24.1089482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jörg von Haus Naizer
+</name>
+        <description>Pai: Hammer do Walegui | Mãe: Bonnie von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.203558,-25.4700112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jeck von Haus Naizer
+</name>
+        <description>Pai: Hammer do Walegui | Mãe: Bonnie von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.291748,-25.4007895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iuri von Haus Naizer
+</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3056932,-25.4335813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Java von Haus Naizer</name>
+        <description>Pai: Hammer do Walegui | Mãe: Bonnie von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2575333,-25.4370769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Imperador von Haus Naizer
+</name>
+        <description>Pai: Ballack von Haus Naizer | Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2429543,-25.4020343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hanna von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Naizer | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2106794,-25.3737343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hebe von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Naizer | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3297882,-25.4061214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hammer von Haus Naizer</name>
+        <description>Pai: Hammer do Walegui | Mãe: Bonnie von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.5432745,-25.4377662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jalk von Haus Naizer [COC/BOPE/PMPR]
+</name>
+        <description><![CDATA[Mãe:     Bonnie von Haus Zipf<br>Pai:     Hammer do Walegui]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3006468,-25.3944324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gesb von Haus Naizer
+</name>
+        <description>Pai: Ballack von Haus Naizer | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2918813,-25.4220894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gaia von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Naizer | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3046406,-25.4494208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gaia von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Naizer | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2594363,-25.5065632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Geovanne von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Ruca de los Veltro</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -53.88892,-23.7337496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Falcon von Haus Naizer
+</name>
+        <description>Pai: Fedor von der Martinskapelle | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3251408,-25.4041208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fly von Haus Naizer</name>
+        <description>Pai: Fedor von der Martinskapelle | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2298304,-25.4285012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ella von Haus Naizer
+</name>
+        <description>Pai: Zokko do Rancho dos Ipês | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2547989,-25.3776866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basf von Haus Naizer
+</name>
+        <description>Mãe:     Athena von Haus Zipf | Pai:     Falcon do Rancho dos Ypês</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2438148,-25.4687671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dharla von Haus Naizer
+</name>
+        <description><![CDATA[Mãe:     Y-Amser do Walegui<br>Pai:     Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2579632,-25.3537935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brenda von Haus Naizer
+</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Mãe: Athena von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2408317,-25.3656064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brutus von Haus Naizer
+</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Mãe: Athena von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.5768356,-25.4469948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Athos von Haus Naizer</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Ursa do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2281055,-25.4352912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Etô do Walegui [Naizer]
+</name>
+        <description><![CDATA[Mãe:     Pluma do Império Paranaense<br>Pai:     Falcon do Rancho dos Ypês]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2819214,-25.350852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Odile</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Mãe: Puma do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3762272,-20.811761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Loren von Haus Naizer
+</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Cantha von Haus Ulli</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2454469,-25.4175884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luna von Haus Naizer
+</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Cantha von Haus Ulli</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.0850258,-26.8625149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>L.Meg do Walegui [NAIZER]</name>
+        <description><![CDATA[Mãe:     Tanuscia de Ailin Neyen<br>Pai:     Falcon do Rancho dos Ypês]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.0626332,-22.9099384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>M-Zoso von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Diana von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -52.6711356,-26.2297202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Django von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.26544,-25.384018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nina</name>
+        <description>Pai: Falcon | Mãe: Volga</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -50.3842316,-25.8681839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minka von Haus Naizer</name>
+        <description><![CDATA[Pai: Ballack von Haus Zipf<br>Mãe: Diana von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -52.2737365,-27.6349085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Otto von Haus Naizer
+</name>
+        <description><![CDATA[Pai: Ballack von Haus Zipf<br>Mãe: Athena von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -54.5853764,-25.5163356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Menthos von Haus Naizer
+</name>
+        <description><![CDATA[Pai: Ballack von Haus Zipf<br>Mãe: Diana von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3658638,-25.3829598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minni von Haus Naizer
+</name>
+        <description><![CDATA[Pai: Ballack von Haus Zipf<br>Mãe: Diana von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2881057,-25.4444178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mutz von Haus Naizer
+</name>
+        <description><![CDATA[Pai: Ballack von Haus Zipf<br>Mãe: Diana von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -52.6887131,-26.191796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nandy von Haus Naizer
+</name>
+        <description><![CDATA[Pai: Erich della Valcúvia<br>Mãe: Ruca de los Veltri]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3483474,-25.4189771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marko von Haus Naizer
+</name>
+        <description><![CDATA[Pai: Ballack von Haus Zipf<br>Mãe: Diana von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -53.05199,-26.0779448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matz von Haus Naizer
+</name>
+        <description><![CDATA[Pai: Ballack von Haus Zipf<br>Mãe: Diana von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -56.0978917,-15.6014109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moritz von Haus Naizer
+</name>
+        <description><![CDATA[Pai: Ballack von Haus Zipf<br>Mãe: Diana von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2687071,-25.4174893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oxxy von Haus Naizer
+</name>
+        <description><![CDATA[Pai: Ballack von Haus Zipf<br>Mãe: Athena von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.073477,-26.4822209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camélia FM [Naizer]</name>
+        <styleUrl>#icon-503-DB4436-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -34.8769643,-8.0475622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perle von Haus Naizer</name>
+        <description>Pai: Erich della Vacúvia | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.0776443,-26.4281537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Petroski von Haus Naizer</name>
+        <description>Pai: Erich della Vacuvia | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3107559,-25.4385921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pakros von Haus Naizer</name>
+        <description>Pai: Erich della Valcuvia | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -43.9352376,-19.9245018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pischa von Haus Naizer</name>
+        <description>Pai: Erich della Valcuvia | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -53.057785,-26.0611008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pietra von Haus Naizer</name>
+        <description>Pai: Erich della Valcuvia | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2850971,-25.4543575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naizer von Haus Naizer</name>
+        <description>Pai: Erich della Valcuvia | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -48.8463832,-26.3044084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Onix von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Athena von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.338398,-25.5548316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palie von Haus Naizer</name>
+        <description>Pai: Erich della Valcuvia | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -43.1152211,-22.8858975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Noah von Haus Naizer</name>
+        <description>Pai: Erich della Valcuvia | Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.7319925,-24.3439722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Queen von Haus Naizer</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3445921,-25.4205717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quattro von Haus Naizer</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.7172529,-25.7675725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quantum von Haus Naizer</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2474594,-25.3556143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kas von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Ruca de los Veltri</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.6470266,-25.7218627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bax von Haus Naizer</name>
+        <description><![CDATA[Mãe	Athena von Haus Zipf<br>Pai	Falcon do Rancho dos Ypês]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.0628847,-25.4426635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bella von Haus Naizer</name>
+        <description><![CDATA[Mãe	Athena von Haus Zipf<br>Pai	Falcon do Rancho dos Ypês]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.8202515,-24.1455005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chloe von Haus Naizer</name>
+        <description><![CDATA[Mãe Tanuscia de Ailin Neyen<br>Pai Falcon do Rancho dos Ypês]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3461227,-25.4403293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dhara von Haus Naizer
+</name>
+        <description><![CDATA[Mãe	Y-Amser do Walegui<br>Pai	Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.0767795,-25.3678092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dexter von Haus Naizer</name>
+        <description><![CDATA[Mãe	Y-Amser do Walegui<br>Pai	Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -46.8978057,-23.1857076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dakota von Haus Naizer</name>
+        <description><![CDATA[Mãe	Y-Amser do Walegui<br>Pai	Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.1123199,-25.2120856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Geer von Haus Naizer</name>
+        <description><![CDATA[Mãe	Ruca de Los Veltri<br>Pai	Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -51.9309998,-23.4204082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nora von Haus Naizer</name>
+        <description><![CDATA[Mãe	Ruca de Los Veltri<br>Pai	Erich Della Valcuvia]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -46.5567066,-23.1175492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Omen von Haus Naizer</name>
+        <description><![CDATA[Pai: Ballack von Haus Zipf<br>Mãe: Athena von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -50.9827423,-25.2036986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Opus Dai von Haus Naizer</name>
+        <description><![CDATA[Mãe	Athena von Haus Zipf<br>Pai	Ballack von Haus Zipf]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.0555691,-25.304882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>R-Thor von Haus Naizer</name>
+        <description><![CDATA[Pai: Ballack von Haus Zipf<br>Mãe: Y-Amser do Walegui]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -52.3828125,-24.0414475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rikkor von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -54.8162842,-22.2280904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rollex von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Amber do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.4522095,-26.2466197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ruca von Haus Naizer</name>
+        <description><![CDATA[Ballack von Haus Zipf<br>Y-Amser do Walegui]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -50.2065754,-25.0709839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rolex von Haus Naizer</name>
+        <description><![CDATA[Ballack von Haus Zipf<br>Y-Amser do Walegui]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -49.2881227,-25.4040114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shogun von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Athena von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -54.5520844,-25.4928389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saskia von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Athena von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.4554443,-23.4985144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sara von Haus Naizer</name>
+        <description>Pai: Ballack von Haus Zipf | Mãe: Athena von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -43.4806912,-22.4577374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tell von Haus Naizer</name>
+        <description>Pai: Erich Della Valcuvia | Mãe: Bonnie von Haus Zipf</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.4739408,-7.3331197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>W.Max vh Zipf [NAIZER]</name>
+        <description>Pai: Max do Morada de Pedras | Mãe: Cantha von Haus Ulli</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            34.8516119999999,31.046051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Achilles von Haus Naizer</name>
+        <description>Pai: Falcon do Rancho dos Ipês | Mãe: Ursa do Walegui</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -58.0150223,-31.3857356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Camada sem título</name>
+    </Folder>
+    <Folder>
+      <name>Camada sem título</name>
+    </Folder>
+    <Folder>
+      <name>Camada sem título</name>
+    </Folder>
+  </Document>
+</kml>

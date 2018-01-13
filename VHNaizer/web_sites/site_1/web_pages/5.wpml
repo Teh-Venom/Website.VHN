@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<web_page>
+  <lang_dependant_data>
+    <OBJECT type="LanguageDependantDataPage">
+      <lang val=""/>
+      <web_title val=""/>
+      <web_description val=""/>
+      <web_keywords val=""/>
+      <alternative_language val=""/>
+    </OBJECT>
+  </lang_dependant_data>
+  <synchro_dhtml_page>
+    <type val="2"/>
+    <sync_mod val="6hb4fkn42z042n"/>
+    <sync_pub val=""/>
+  </synchro_dhtml_page>
+  <bk_properties>
+    <color>
+      <col val="ffffff"/>
+    </color>
+    <type_bg_img val="0"/>
+    <bg_img_static val="false"/>
+    <bg_repeat_v val="true"/>
+    <bg_repeat_h val="true"/>
+    <template_name val="3.wtml"/>
+    <workspace>
+      <size width="800" height="1300"/>
+      <centered val="true"/>
+    </workspace>
+    <page_footer val=""/>
+    <custom_page_name val=""/>
+    <head_code val=""/>
+    <template_page_height val="600"/>
+  </bk_properties>
+  <multilanguage>
+    <multilanguage_support val="false"/>
+  </multilanguage>
+  <protected_page val="false"/>
+  <fonts_glyphs>
+    <version val="0"/>
+    <content_valid val="true"/>
+    <items>
+      <OBJECT>
+        <family val="arial"/>
+        <glyphs val=" !(),-./0124589:@ACDEFHIJMNOPRSTUVWZabcdefghiklmnoprstuvyz©Ãáãçõ"/>
+        <italic val="false"/>
+        <bold val="false"/>
+        <variant val=""/>
+      </OBJECT>
+      <OBJECT>
+        <family val="arial"/>
+        <glyphs val=" ACDEHIJMNOPRSTUVZÃ"/>
+        <italic val="false"/>
+        <bold val="true"/>
+        <variant val=""/>
+      </OBJECT>
+      <OBJECT>
+        <family val="arial"/>
+        <glyphs val=" -.0125ACDRTWabcdeghilmnoprstvy©"/>
+        <italic val="true"/>
+        <bold val="false"/>
+        <variant val=""/>
+      </OBJECT>
+    </items>
+  </fonts_glyphs>
+  <search_index>
+    <version val="0"/>
+    <content_valid val="true"/>
+    <items>
+      <OBJECT>
+        <words val="2015:2;99944-1899:1;9999:2;99999:2;acappella:2;acesse:1;atendemos:2;catarina:2;com:3;contato:2;contato@pastoralemaopr:2;copyright:2;cães:1;desenvolvido:2;design:2;dicas:2;direitos:2;email:1;entre:1;estados:2;facebook:2;home:1;informações:1;jovens:1;ligue:1;mais:1;matrizes:1;mundo:1;ninhadas:1;nossa:1;nossos:1;padreadores:1;para:4;paraná:2;paulo:2;pelo:1;por:2;página:1;reservados:2;santa:2;são:2;template:2;todos:2;vhn:1;vonhausnaizer:1;web:2"/>
+        <lang val=""/>
+      </OBJECT>
+    </items>
+    <search_eng val="false"/>
+  </search_index>
+  <time_modification val="2018-01-12T06:26:27"/>
+  <virtual_name val="Jovens"/>
+  <layer_container>
+    <items>
+    </items>
+  </layer_container>
+  <under_construction val="false"/>
+  <ignored_by_sitemap val="false"/>
+  <version val="4.1"/>
+  <components>
+    <OBJECT type="CrbstDataTemplateFrame">
+      <geometry>
+        <pos x="0" y="0"/>
+        <size width="1000" height="150"/>
+        <rot val="0"/>
+        <z val="0"/>
+        <kp_ratio val="false"/>
+        <size_kp_ratio width="100" height="100"/>
+        <layer val="-1"/>
+      </geometry>
+      <lang_datas>
+      </lang_datas>
+      <link>
+        <url val="0.wtml"/>
+        <type val="1"/>
+        <opening val="-1"/>
+        <anchor val=""/>
+        <target_language val=""/>
+        <frm_target val=""/>
+        <js_onclick val=""/>
+      </link>
+      <unid val="7rl9u88bjpeur"/>
+      <hidden_langs val=""/>
+      <text_vector val="false"/>
+    </OBJECT>
+  </components>
+  <layout_rule_settings>
+    <horz>
+      <indexes val=""/>
+    </horz>
+    <vert>
+      <indexes val=""/>
+    </vert>
+  </layout_rule_settings>
+</web_page>

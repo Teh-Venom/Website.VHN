@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<VIRTUAL_DIR>
+  <virtual_files>
+    <OBJECT>
+      <name val="data.js"/>
+      <v_name val="data.js"/>
+      <crc val="6088"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="markers.xml"/>
+      <v_name val="markers.xml"/>
+      <crc val="e9c"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="markers.kmz"/>
+      <v_name val="markers.kmz"/>
+      <crc val="b009"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="markers.kml"/>
+      <v_name val="markers.kml"/>
+      <crc val="3efc"/>
+    </OBJECT>
+  </virtual_files>
+</VIRTUAL_DIR>

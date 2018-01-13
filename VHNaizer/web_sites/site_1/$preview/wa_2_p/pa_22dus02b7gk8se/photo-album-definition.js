@@ -1,0 +1,79 @@
+{
+"global_config":{
+"gallery_type":2,
+"diaporama_time":3,
+"transition_effect":100,
+"max_image_resolution":800,
+"random_diaporama":0,
+"show_diaporama_button":0,
+"show_comment":1,
+"has_fullscreen_thumbnail_mode":0,
+"inner_slideshow_image_margin":0,
+"open_popup_when_clicking":0,
+"type_display_page_navigator":1,
+"display_nav_arrows":1,
+"always_display_nav_elements":1,
+"comment_display_ImageNumber":0,
+"fit_image_to_slideshow":1}
+,"normal_config":{
+"has_shadow":false,
+"rows":3,
+"cols":10,
+"image_size":90,
+"image_spacing":4,
+"nb_images_per_page":30,
+"margin_left":10,
+"margin_top":13}
+,
+"fullscreen_list_config":{
+"image_size":110}
+,"images":[{"fn":"DSCF5303.jpg",
+"mod_th":"6o9qa02b7gophe",
+"mod":"6o9q742b7gophe",
+"size":{"w":800,"h":533},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"DSCF5304.jpg",
+"mod_th":"6o9qk82b7gophe",
+"mod":"6o9qhc2b7gophe",
+"size":{"w":800,"h":533},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"DSCF5305.jpg",
+"mod_th":"6o9qug2b7gophf",
+"mod":"6o9qrk2b7gophf",
+"size":{"w":800,"h":533},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"DSCF5306.jpg",
+"mod_th":"6o9r4o2b7gophf",
+"mod":"6o9r1s2b7gophf",
+"size":{"w":800,"h":533},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"DSCF5307.jpg",
+"mod_th":"6o9rew2b7gophf",
+"mod":"6o9rc02b7gophf",
+"size":{"w":800,"h":533},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"DSCF5308.jpg",
+"mod_th":"6o9rp42b7gophf",
+"mod":"6o9rm82b7gophf",
+"size":{"w":800,"h":533},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"DSCF5309.jpg",
+"mod_th":"6o9rzc2b7gophf",
+"mod":"6o9rwg2b7gophf",
+"size":{"w":800,"h":533},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+]}

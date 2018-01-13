@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<web_page>
+  <lang_dependant_data>
+    <OBJECT type="LanguageDependantDataPage">
+      <lang val=""/>
+      <web_title val=""/>
+      <web_description val=""/>
+      <web_keywords val=""/>
+      <alternative_language val=""/>
+    </OBJECT>
+  </lang_dependant_data>
+  <synchro_dhtml_page>
+    <type val="2"/>
+    <sync_mod val="6hay7s8bjyl3s"/>
+    <sync_pub val=""/>
+  </synchro_dhtml_page>
+  <bk_properties>
+    <color>
+      <col val="ffffff"/>
+    </color>
+    <type_bg_img val="0"/>
+    <bg_img_static val="false"/>
+    <bg_repeat_v val="true"/>
+    <bg_repeat_h val="true"/>
+    <template_name val="3.wtml"/>
+    <workspace>
+      <size width="800" height="1300"/>
+      <centered val="true"/>
+    </workspace>
+    <page_footer val=""/>
+    <custom_page_name val=""/>
+    <head_code val=""/>
+    <template_page_height val="600"/>
+  </bk_properties>
+  <multilanguage>
+    <multilanguage_support val="false"/>
+  </multilanguage>
+  <protected_page val="false"/>
+  <fonts_glyphs>
+    <version val="0"/>
+    <content_valid val="true"/>
+    <items>
+      <OBJECT>
+        <family val="arial"/>
+        <glyphs val=" (),.149@ACDEHIJMNOPRSTUVZacdeilmnoprstuÃáã"/>
+        <italic val="false"/>
+        <bold val="false"/>
+        <variant val=""/>
+      </OBJECT>
+      <OBJECT>
+        <family val="arial"/>
+        <glyphs val=" -.0125ACDRTWabcdeghilmnoprstvy©"/>
+        <italic val="true"/>
+        <bold val="false"/>
+        <variant val=""/>
+      </OBJECT>
+      <OBJECT>
+        <family val="calibri"/>
+        <glyphs val=" ACDEHIJMNOPRSTUVZÃ"/>
+        <italic val="false"/>
+        <bold val="true"/>
+        <variant val=""/>
+      </OBJECT>
+      <OBJECT>
+        <family val="georgia"/>
+        <glyphs val="EHMO"/>
+        <italic val="false"/>
+        <bold val="false"/>
+        <variant val=""/>
+      </OBJECT>
+      <OBJECT>
+        <family val="high tower text"/>
+        <glyphs val=" ACDEHIMNORSUVZÃ"/>
+        <italic val="false"/>
+        <bold val="false"/>
+        <variant val=""/>
+      </OBJECT>
+    </items>
+  </fonts_glyphs>
+  <search_index>
+    <version val="0"/>
+    <content_valid val="true"/>
+    <items>
+      <OBJECT>
+        <words val="2015:2;9999:4;99999:4;acappella:2;atendemos:2;catarina:2;com:2;contato:1;contato@pastoralemaopr:2;copyright:2;cães:2;desenvolvido:2;design:2;dicas:2;direitos:2;estados:2;haus:1;home:1;jovens:1;matrizes:1;mundo:2;naizer:1;ninhadas:1;nossos:1;padreadores:1;para:2;paraná:2;paulo:2;por:2;reservados:2;santa:2;são:2;template:2;todos:2;vhn:1;von:1;web:2"/>
+        <lang val=""/>
+      </OBJECT>
+    </items>
+    <search_eng val="false"/>
+  </search_index>
+  <time_modification val="2018-01-12T09:01:29"/>
+  <virtual_name val="VHN No Mundo"/>
+  <layer_container>
+    <items>
+    </items>
+  </layer_container>
+  <under_construction val="false"/>
+  <ignored_by_sitemap val="false"/>
+  <version val="4.1"/>
+  <components>
+    <OBJECT type="CrbstDataRichText">
+      <geometry>
+        <pos x="59" y="233"/>
+        <size width="880" height="67"/>
+        <rot val="0"/>
+        <z val="8"/>
+        <kp_ratio val="false"/>
+        <size_kp_ratio width="100" height="100"/>
+        <layer val="-1"/>
+      </geometry>
+      <lang_datas>
+        <OBJECT type="CrbstLanguageDataRichText">
+          <lang val=""/>
+          <text val="&lt;wa_text_04&gt;&lt;a=center f=High%20Tower%20Text s=28.00 c=#000000 y=0 b=0 i=0 u=0 w=400 tt= &gt;C&amp;#195;ES VON HAUS NAIZER NO MUNDO"/>
+          <img_text>
+            <type val="1"/>
+            <sync_mod val="7v6enk8bjyl3r"/>
+            <sync_pub val=""/>
+            <ref val=""/>
+            <transformation>
+              <size width="-1" height="-1"/>
+              <keep_ratio val="false"/>
+              <limit_max_is_real_size val="true"/>
+            </transformation>
+            <prefered_pub_format val=""/>
+          </img_text>
+          <img_text_tooltip val=""/>
+        </OBJECT>
+      </lang_datas>
+      <background>
+        <bg_image>
+          <type val="1"/>
+          <sync_mod val=""/>
+          <sync_pub val=""/>
+          <ref val=""/>
+          <transformation>
+            <size width="-1" height="-1"/>
+            <keep_ratio val="false"/>
+            <limit_max_is_real_size val="true"/>
+          </transformation>
+          <prefered_pub_format val=""/>
+        </bg_image>
+        <opacity val="100"/>
+        <corner_size val=""/>
+        <border_size val="0"/>
+        <border_color>
+          <col val="969696"/>
+        </border_color>
+        <gradient>
+          <pt1 x="30" y="50"/>
+          <pt2 x="70" y="50"/>
+          <col1>
+            <col val="00000000"/>
+          </col1>
+          <col2>
+            <col val="00000000"/>
+          </col2>
+          <has_gradient val="false"/>
+        </gradient>
+        <shadow>
+          <enabled val="false"/>
+          <rot val="45"/>
+          <offset val="2"/>
+          <strentgh val="6"/>
+          <color val="000000" alpha="204" />
+        </shadow>
+      </background>
+      <data>
+        <text_margin val="0"/>
+        <orientation val="0"/>
+        <marquee val="false"/>
+        <marquee_speed val="10"/>
+        <hide_scrollbar val="false"/>
+        <shadow>
+          <enabled val="false"/>
+          <rot val="45"/>
+          <offset val="2"/>
+          <strentgh val="6"/>
+          <color val="000000" alpha="204" />
+        </shadow>
+        <normal_link_color>
+          <col val="0000ff"/>
+        </normal_link_color>
+        <normal_link_underlined val="true"/>
+        <over_link_color>
+          <col val="0000ff"/>
+        </over_link_color>
+        <over_link_underlined val="true"/>
+        <head_tag_style val="0"/>
+      </data>
+      <display_text_as_image val="false"/>
+      <unid val="6nr12wn43br5np"/>
+      <hidden_langs val=""/>
+      <text_vector val="false"/>
+    </OBJECT>
+    <OBJECT type="CrbstDataHtml">
+      <geometry>
+        <pos x="40" y="312"/>
+        <size width="920" height="560"/>
+        <rot val="0"/>
+        <z val="4"/>
+        <kp_ratio val="false"/>
+        <size_kp_ratio width="100" height="100"/>
+        <layer val="-1"/>
+      </geometry>
+      <lang_datas>
+      </lang_datas>
+      <html_data>
+        <code_html val="&lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=18bsUcwNJKdiE1eXZgAxPBldQbNA&amp;hl=en_US&quot; width=100% height=100%&gt;&lt;/iframe&gt;"/>
+        <active val="true"/>
+        <attached_files>
+          <OBJECT>
+            <url val="markers.kml"/>
+            <type val="4"/>
+            <opening val="-1"/>
+            <anchor val=""/>
+            <target_language val=""/>
+            <frm_target val=""/>
+            <js_onclick val=""/>
+          </OBJECT>
+        </attached_files>
+      </html_data>
+      <html_desc val="Google Maps"/>
+      <enabled_preview val="false"/>
+      <unid val="6ob0eg2b7ifo6o"/>
+      <hidden_langs val=""/>
+      <text_vector val="false"/>
+    </OBJECT>
+    <OBJECT type="CrbstDataTemplateFrame">
+      <geometry>
+        <pos x="0" y="0"/>
+        <size width="1000" height="150"/>
+        <rot val="0"/>
+        <z val="0"/>
+        <kp_ratio val="false"/>
+        <size_kp_ratio width="100" height="100"/>
+        <layer val="-1"/>
+      </geometry>
+      <lang_datas>
+      </lang_datas>
+      <link>
+        <url val="2.wtml"/>
+        <type val="1"/>
+        <opening val="-1"/>
+        <anchor val=""/>
+        <target_language val=""/>
+        <frm_target val=""/>
+        <js_onclick val=""/>
+      </link>
+      <unid val="7rl8j42b7h1it0"/>
+      <hidden_langs val=""/>
+      <text_vector val="false"/>
+    </OBJECT>
+  </components>
+  <layout_rule_settings>
+    <horz>
+      <indexes val=""/>
+    </horz>
+    <vert>
+      <indexes val=""/>
+    </vert>
+  </layout_rule_settings>
+</web_page>

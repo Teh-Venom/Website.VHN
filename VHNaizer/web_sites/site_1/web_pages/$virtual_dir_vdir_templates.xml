@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<VIRTUAL_DIR>
+  <virtual_files>
+    <OBJECT>
+      <name val="0.wtml"/>
+      <v_name val="MATRIZ 01"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="1.wtml"/>
+      <v_name val="MATRIZ 02"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="2.wtml"/>
+      <v_name val="MATRIZ 01a"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="3.wtml"/>
+      <v_name val="MATRIZ 02a"/>
+    </OBJECT>
+  </virtual_files>
+</VIRTUAL_DIR>

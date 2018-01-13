@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<VIRTUAL_DIR>
+  <virtual_files>
+    <OBJECT>
+      <name val="0.wpml"/>
+      <v_name val="Home"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="1.wpml"/>
+      <v_name val="Contato"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="2.wpml"/>
+      <v_name val="Ninhadas"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="3.wpml"/>
+      <v_name val="Padreadores"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="4.wpml"/>
+      <v_name val="Matrizes"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="5.wpml"/>
+      <v_name val="Jovens"/>
+    </OBJECT>
+    <OBJECT>
+      <name val="6.wpml"/>
+      <v_name val="VHN No Mundo"/>
+    </OBJECT>
+  </virtual_files>
+</VIRTUAL_DIR>

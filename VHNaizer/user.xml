@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<user_settings>
+  <last_save_with_free_edition val="false"/>
+  <recent_website_index val="0"/>
+  <use_layout_rules val="true"/>
+  <products_export_path val=""/>
+  <last_successfull_publication val=""/>
+  <last_fs_image_folder val=""/>
+  <last_fs_file_folder val=""/>
+  <last_fs_site_backup_folder>
+    <last_fs_site_backup_folder key="site0" val="C:/Users/naizer/Documents/Novo Site Naizer  PAPR/warembrandt/"/>
+  </last_fs_site_backup_folder>
+  <custom_connexion_settings>
+    <dynamic_page_id_modification val=""/>
+    <host_code val=""/>
+    <extended_site_path val="web_acappella"/>
+    <nb_sites val="1"/>
+    <enabled_multisite val="false"/>
+    <type_publication val="0"/>
+    <local_path val=""/>
+    <ftp_settings>
+      <vfs_protocol val="0"/>
+      <host val=""/>
+      <port val="21"/>
+      <passive_mode val="true"/>
+      <login val=""/>
+      <password encrypted="true"  val=""/>
+      <path val=""/>
+    </ftp_settings>
+    <internet_adress val=""/>
+    <sql_settings>
+      <enabled val="false"/>
+      <sql_driver val="0"/>
+      <sql_host val=""/>
+      <sql_port val="3306"/>
+      <sql_database val=""/>
+      <sql_login val=""/>
+      <sql_password encrypted="true"  val=""/>
+    </sql_settings>
+    <use_custom_mail_function val="false"/>
+    <email_variables>
+      <OBJECT>
+        <name val="Content-type"/>
+        <value val="text/plain;charset=utf-8"/>
+      </OBJECT>
+      <OBJECT>
+        <name val="From"/>
+        <value val="[mail]"/>
+      </OBJECT>
+      <OBJECT>
+        <name val="Return-Path"/>
+        <value val="[mail]"/>
+      </OBJECT>
+    </email_variables>
+    <default_email val=""/>
+    <additionnnal_mail_header val="-f[mail]"/>
+    <disable_php_mail_warning val="false"/>
+    <prestashop>
+      <db_engine val="InnoDB"/>
+      <db_table_prefix val=""/>
+      <shop_name val=""/>
+      <shop_activity val=""/>
+      <first_name val=""/>
+      <last_name val=""/>
+      <admin_password encrypted="true"  val=""/>
+      <language_code val=""/>
+      <country_code val=""/>
+      <timezone_code val=""/>
+      <email val=""/>
+      <current_version val=""/>
+      <permissions val="0"/>
+      <shop_link>
+        <url val=""/>
+        <type val="0"/>
+        <opening val="-1"/>
+        <anchor val=""/>
+        <target_language val=""/>
+        <frm_target val=""/>
+        <js_onclick val=""/>
+      </shop_link>
+      <force_local_unzip val="false"/>
+      <force_group_write val="false"/>
+    </prestashop>
+  </custom_connexion_settings>
+  <host_code val=""/>
+</user_settings>
